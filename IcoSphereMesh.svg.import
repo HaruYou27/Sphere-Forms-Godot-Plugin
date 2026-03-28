@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceh5io32qnh4o"
-path="res://.godot/imported/IcoSphereMesh.svg-fd07ee08e24b7d956a6c52c2c5dea35d.ctex"
+path="res://.godot/imported/IcoSphereMesh.svg-23ec074c9a77f9568a84bc38c3e50a15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/SphereFormsPlugin/IcoSphereMesh.svg"
-dest_files=["res://.godot/imported/IcoSphereMesh.svg-fd07ee08e24b7d956a6c52c2c5dea35d.ctex"]
+source_file="res://addons/Sphere-Forms-Godot-Plugin/IcoSphereMesh.svg"
+dest_files=["res://.godot/imported/IcoSphereMesh.svg-23ec074c9a77f9568a84bc38c3e50a15.ctex"]
 
 [params]
 
